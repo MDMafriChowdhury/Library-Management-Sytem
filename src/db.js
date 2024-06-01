@@ -1,10 +1,10 @@
 const mysql = require('mysql2');
 
 const connection = mysql.createConnection({
-  host: 'localhost',
-  user: 'root',
-  password: '',
-  database: 'library_management_system',
+  host: '66.29.146.85',
+  user: 'litvitapanel_mafri',
+  password: 'niloy019@',
+  database: 'litvitapanel_library_management',
   port: 3306
 });
 
